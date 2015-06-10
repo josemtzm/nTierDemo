@@ -6,3 +6,11 @@ C:\Users\Jose\Downloads\nTierDemo\nTierDemo\SrvEmpleado\bin\Debug\DAL.dll
 C:\Users\Jose\Downloads\nTierDemo\nTierDemo\SrvEmpleado\bin\Debug\DAL.pdb
 C:\Users\Jose\Downloads\nTierDemo\nTierDemo\SrvEmpleado\obj\Debug\SrvEmpleado.dll
 C:\Users\Jose\Downloads\nTierDemo\nTierDemo\SrvEmpleado\obj\Debug\SrvEmpleado.pdb
+C:\Users\Jose\Documents\GitHub\nTierDemo\nTierDemo\SrvEmpleado\bin\Debug\SrvEmpleado.dll.config
+C:\Users\Jose\Documents\GitHub\nTierDemo\nTierDemo\SrvEmpleado\bin\Debug\SrvEmpleado.dll
+C:\Users\Jose\Documents\GitHub\nTierDemo\nTierDemo\SrvEmpleado\bin\Debug\SrvEmpleado.pdb
+C:\Users\Jose\Documents\GitHub\nTierDemo\nTierDemo\SrvEmpleado\bin\Debug\DAL.dll
+C:\Users\Jose\Documents\GitHub\nTierDemo\nTierDemo\SrvEmpleado\bin\Debug\DAL.pdb
+C:\Users\Jose\Documents\GitHub\nTierDemo\nTierDemo\SrvEmpleado\obj\Debug\SrvEmpleado.csprojResolveAssemblyReference.cache
+C:\Users\Jose\Documents\GitHub\nTierDemo\nTierDemo\SrvEmpleado\obj\Debug\SrvEmpleado.dll
+C:\Users\Jose\Documents\GitHub\nTierDemo\nTierDemo\SrvEmpleado\obj\Debug\SrvEmpleado.pdb
