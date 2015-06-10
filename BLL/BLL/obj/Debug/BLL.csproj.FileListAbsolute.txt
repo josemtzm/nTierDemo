@@ -1,0 +1,7 @@
+C:\Users\Jose\Downloads\nTierDemo\nTierDemo\BLL\BLL\bin\Debug\BLL.dll
+C:\Users\Jose\Downloads\nTierDemo\nTierDemo\BLL\BLL\bin\Debug\BLL.pdb
+C:\Users\Jose\Downloads\nTierDemo\nTierDemo\BLL\BLL\bin\Debug\DAL.dll
+C:\Users\Jose\Downloads\nTierDemo\nTierDemo\BLL\BLL\bin\Debug\DAL.pdb
+C:\Users\Jose\Downloads\nTierDemo\nTierDemo\BLL\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Jose\Downloads\nTierDemo\nTierDemo\BLL\BLL\obj\Debug\BLL.dll
+C:\Users\Jose\Downloads\nTierDemo\nTierDemo\BLL\BLL\obj\Debug\BLL.pdb

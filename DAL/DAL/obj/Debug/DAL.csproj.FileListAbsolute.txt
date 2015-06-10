@@ -1,0 +1,4 @@
+C:\Users\Jose\Downloads\nTierDemo\nTierDemo\DAL\DAL\bin\Debug\DAL.dll
+C:\Users\Jose\Downloads\nTierDemo\nTierDemo\DAL\DAL\bin\Debug\DAL.pdb
+C:\Users\Jose\Downloads\nTierDemo\nTierDemo\DAL\DAL\obj\Debug\DAL.dll
+C:\Users\Jose\Downloads\nTierDemo\nTierDemo\DAL\DAL\obj\Debug\DAL.pdb
