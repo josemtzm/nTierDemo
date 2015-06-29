@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Oracle.ManagedDataAccess.Client;
+using System;
 using System.Collections.Generic;
 using System.Data;
 using System.Data.SqlClient;
@@ -112,13 +113,18 @@ namespace DAL
         public static List<Empleado> ObtenerEmpleadosLista()
         {
             List<Empleado> ListaEmpleados = null;
-
-            DbContext ctx = new DbContext();
-
-            DataTable table = ctx.ExecuteDataTable("GetEmployeeList");
-
             
-                //check if any record exist or not
+            DbContext ctx = new DbContext();
+            DataTable table = ctx.ExecuteDataTable("GetEmployeeList", new[] { new SqlParameter() });
+
+            // Oracle
+            //DataTable table = ctx.ExecuteDataTable("EMPLOYEES_tapi.GetAll", new[] {
+            //    new OracleParameter("registrosCursor", OracleDbType.RefCursor) {
+            //    Direction = ParameterDirection.Output}
+            //});
+
+
+            //check if any record exist or not
             if (table.Rows.Count > 0)
             {
                 //Lets go ahead and create the list of employees

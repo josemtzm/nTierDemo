@@ -53,6 +53,10 @@
     <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="JAMM.Data">
+      <HintPath>..\..\..\..\JAMM\JAMM.Data\bin\Debug\JAMM.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="Oracle.ManagedDataAccess, Version=4.121.2.0, Culture=neutral, PublicKeyToken=89b483f429c47342" />
     <Reference Include="System" />
     <Reference Include="System.Configuration" />
     <Reference Include="System.Data" />
@@ -60,7 +64,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Config.cs" />
-    <Compile Include="DataContext.cs" />
     <Compile Include="DbContext.cs" />
     <Compile Include="DbContext\Empleado.cs" />
     <Compile Include="Entities\Empleado.cs" />

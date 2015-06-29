@@ -4,3 +4,9 @@ C:\Users\Jose\Downloads\nTierDemo\nTierDemo\BLL_WCF\bin\Debug\BLL_WCF.dll
 C:\Users\Jose\Downloads\nTierDemo\nTierDemo\BLL_WCF\bin\Debug\BLL_WCF.pdb
 C:\Users\Jose\Downloads\nTierDemo\nTierDemo\BLL_WCF\obj\Debug\BLL_WCF.dll
 C:\Users\Jose\Downloads\nTierDemo\nTierDemo\BLL_WCF\obj\Debug\BLL_WCF.pdb
+C:\Users\Jose\Documents\GitHub\nTierDemo\nTierDemo\BLL_WCF\bin\Debug\BLL_WCF.dll.config
+C:\Users\Jose\Documents\GitHub\nTierDemo\nTierDemo\BLL_WCF\bin\Debug\BLL_WCF.dll
+C:\Users\Jose\Documents\GitHub\nTierDemo\nTierDemo\BLL_WCF\bin\Debug\BLL_WCF.pdb
+C:\Users\Jose\Documents\GitHub\nTierDemo\nTierDemo\BLL_WCF\obj\Debug\BLL_WCF.csprojResolveAssemblyReference.cache
+C:\Users\Jose\Documents\GitHub\nTierDemo\nTierDemo\BLL_WCF\obj\Debug\BLL_WCF.dll
+C:\Users\Jose\Documents\GitHub\nTierDemo\nTierDemo\BLL_WCF\obj\Debug\BLL_WCF.pdb

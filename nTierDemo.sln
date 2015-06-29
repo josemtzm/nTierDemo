@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
+# Visual Studio 14
+VisualStudioVersion = 14.0.22823.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "PL", "PL", "{40067D88-DA4C-475E-89A2-31A8672B703A}"
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "PL", "PL\", "{40067D88-DA4C-475E-89A2-31A8672B703A}"
 	ProjectSection(WebsiteProperties) = preProject
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		ProjectReferences = "{C2D407F5-C26E-4BDC-B4CE-74B6CA186872}|BLL.dll;{af3d24c8-5090-4bca-838e-c4bd3fa89777}|BLL_WCF.dll;{CDCDC50F-892D-46C0-939C-92B534961747}|DAL.dll;{D8E0899A-69C7-4807-9E5A-5ED42BACA171}|SrvEmpleado.dll;"

@@ -14,3 +14,5 @@ C:\Users\Jose\Documents\GitHub\nTierDemo\nTierDemo\SrvEmpleado\bin\Debug\DAL.pdb
 C:\Users\Jose\Documents\GitHub\nTierDemo\nTierDemo\SrvEmpleado\obj\Debug\SrvEmpleado.csprojResolveAssemblyReference.cache
 C:\Users\Jose\Documents\GitHub\nTierDemo\nTierDemo\SrvEmpleado\obj\Debug\SrvEmpleado.dll
 C:\Users\Jose\Documents\GitHub\nTierDemo\nTierDemo\SrvEmpleado\obj\Debug\SrvEmpleado.pdb
+C:\Users\Jose\Documents\GitHub\nTierDemo\nTierDemo\SrvEmpleado\bin\Debug\JAMM.Data.dll
+C:\Users\Jose\Documents\GitHub\nTierDemo\nTierDemo\SrvEmpleado\bin\Debug\JAMM.Data.pdb
