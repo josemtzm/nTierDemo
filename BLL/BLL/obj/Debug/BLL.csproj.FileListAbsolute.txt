@@ -8,9 +8,9 @@ C:\Users\Jose\Downloads\nTierDemo\nTierDemo\BLL\BLL\obj\Debug\BLL.pdb
 C:\Users\Jose\Documents\GitHub\nTierDemo\nTierDemo\BLL\BLL\bin\Debug\BLL.dll
 C:\Users\Jose\Documents\GitHub\nTierDemo\nTierDemo\BLL\BLL\bin\Debug\BLL.pdb
 C:\Users\Jose\Documents\GitHub\nTierDemo\nTierDemo\BLL\BLL\bin\Debug\DAL.dll
+C:\Users\Jose\Documents\GitHub\nTierDemo\nTierDemo\BLL\BLL\bin\Debug\JAMM.Data.dll
 C:\Users\Jose\Documents\GitHub\nTierDemo\nTierDemo\BLL\BLL\bin\Debug\DAL.pdb
+C:\Users\Jose\Documents\GitHub\nTierDemo\nTierDemo\BLL\BLL\bin\Debug\JAMM.Data.pdb
 C:\Users\Jose\Documents\GitHub\nTierDemo\nTierDemo\BLL\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
 C:\Users\Jose\Documents\GitHub\nTierDemo\nTierDemo\BLL\BLL\obj\Debug\BLL.dll
 C:\Users\Jose\Documents\GitHub\nTierDemo\nTierDemo\BLL\BLL\obj\Debug\BLL.pdb
-C:\Users\Jose\Documents\GitHub\nTierDemo\nTierDemo\BLL\BLL\bin\Debug\JAMM.Data.dll
-C:\Users\Jose\Documents\GitHub\nTierDemo\nTierDemo\BLL\BLL\bin\Debug\JAMM.Data.pdb

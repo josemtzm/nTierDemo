@@ -4,22 +4,9 @@
     <xsd:schema targetNamespace="http://tempuri.org/Imports">
       <xsd:import namespace="http://tempuri.org/" />
       <xsd:import namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
-      <xsd:import namespace="http://schemas.datacontract.org/2004/07/SrvEmpleado" />
       <xsd:import namespace="http://schemas.datacontract.org/2004/07/DAL" />
     </xsd:schema>
   </wsdl:types>
-  <wsdl:message name="IServicio_GetData_InputMessage">
-    <wsdl:part name="parameters" element="tns:GetData" />
-  </wsdl:message>
-  <wsdl:message name="IServicio_GetData_OutputMessage">
-    <wsdl:part name="parameters" element="tns:GetDataResponse" />
-  </wsdl:message>
-  <wsdl:message name="IServicio_GetDataUsingDataContract_InputMessage">
-    <wsdl:part name="parameters" element="tns:GetDataUsingDataContract" />
-  </wsdl:message>
-  <wsdl:message name="IServicio_GetDataUsingDataContract_OutputMessage">
-    <wsdl:part name="parameters" element="tns:GetDataUsingDataContractResponse" />
-  </wsdl:message>
   <wsdl:message name="IServicio_ObtenerEmpleadosLista_InputMessage">
     <wsdl:part name="parameters" element="tns:ObtenerEmpleadosLista" />
   </wsdl:message>
@@ -51,14 +38,6 @@
     <wsdl:part name="parameters" element="tns:AgregarEmpleadoResponse" />
   </wsdl:message>
   <wsdl:portType name="IServicio">
-    <wsdl:operation name="GetData">
-      <wsdl:input wsaw:Action="http://tempuri.org/IServicio/GetData" message="tns:IServicio_GetData_InputMessage" />
-      <wsdl:output wsaw:Action="http://tempuri.org/IServicio/GetDataResponse" message="tns:IServicio_GetData_OutputMessage" />
-    </wsdl:operation>
-    <wsdl:operation name="GetDataUsingDataContract">
-      <wsdl:input wsaw:Action="http://tempuri.org/IServicio/GetDataUsingDataContract" message="tns:IServicio_GetDataUsingDataContract_InputMessage" />
-      <wsdl:output wsaw:Action="http://tempuri.org/IServicio/GetDataUsingDataContractResponse" message="tns:IServicio_GetDataUsingDataContract_OutputMessage" />
-    </wsdl:operation>
     <wsdl:operation name="ObtenerEmpleadosLista">
       <wsdl:input wsaw:Action="http://tempuri.org/IServicio/ObtenerEmpleadosLista" message="tns:IServicio_ObtenerEmpleadosLista_InputMessage" />
       <wsdl:output wsaw:Action="http://tempuri.org/IServicio/ObtenerEmpleadosListaResponse" message="tns:IServicio_ObtenerEmpleadosLista_OutputMessage" />
@@ -82,24 +61,6 @@
   </wsdl:portType>
   <wsdl:binding name="BasicHttpBinding_IServicio" type="tns:IServicio">
     <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
-    <wsdl:operation name="GetData">
-      <soap:operation soapAction="http://tempuri.org/IServicio/GetData" style="document" />
-      <wsdl:input>
-        <soap:body use="literal" />
-      </wsdl:input>
-      <wsdl:output>
-        <soap:body use="literal" />
-      </wsdl:output>
-    </wsdl:operation>
-    <wsdl:operation name="GetDataUsingDataContract">
-      <soap:operation soapAction="http://tempuri.org/IServicio/GetDataUsingDataContract" style="document" />
-      <wsdl:input>
-        <soap:body use="literal" />
-      </wsdl:input>
-      <wsdl:output>
-        <soap:body use="literal" />
-      </wsdl:output>
-    </wsdl:operation>
     <wsdl:operation name="ObtenerEmpleadosLista">
       <soap:operation soapAction="http://tempuri.org/IServicio/ObtenerEmpleadosLista" style="document" />
       <wsdl:input>

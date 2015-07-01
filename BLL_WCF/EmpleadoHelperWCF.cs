@@ -1,16 +1,11 @@
 ﻿using BLL_WCF.SrvEmpleado;
-using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace BLL_WCF
 {
     public class EmpleadoHelperWCF
     {
-        
-
         public EmpleadoHelperWCF()
         {
             Empleado employeeDb = new Empleado();
@@ -32,7 +27,7 @@ namespace BLL_WCF
         /// <returns></returns>
         public bool ActualizarEmpleado(Empleado empleado)
         {
-            SrvEmpleado.ServicioClient servicio = new SrvEmpleado.ServicioClient();
+            ServicioClient servicio = new ServicioClient();
             return servicio.ActualizarEmpleado(empleado);
         }
 
@@ -43,7 +38,7 @@ namespace BLL_WCF
         /// <returns></returns>
         public Empleado ObtenerEmpleadoDetalle(int empID)
         {
-            SrvEmpleado.ServicioClient servicio = new SrvEmpleado.ServicioClient();
+            ServicioClient servicio = new ServicioClient();
             return servicio.ObtenerEmpleadoDetalle(empID);
         }
 
@@ -54,7 +49,7 @@ namespace BLL_WCF
         /// <returns></returns>
         public bool BorrarEmpleado(int empID)
         {
-            SrvEmpleado.ServicioClient servicio = new SrvEmpleado.ServicioClient();
+            ServicioClient servicio = new ServicioClient();
             return servicio.BorrarEmpleado(empID);
         }
 
@@ -65,7 +60,7 @@ namespace BLL_WCF
         /// <returns></returns>
         public bool AgregarEmpleado(Empleado empleado)
         {
-            SrvEmpleado.ServicioClient servicio = new SrvEmpleado.ServicioClient();
+            ServicioClient servicio = new ServicioClient();
             return servicio.AgregarEmpleado(empleado);
         }
     }

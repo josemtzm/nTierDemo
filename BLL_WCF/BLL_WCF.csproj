@@ -56,9 +56,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />
-    <None Include="Service References\SrvEmpleado\BLL_WCF.SrvEmpleado.CompositeType.datasource">
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </None>
     <None Include="Service References\SrvEmpleado\BLL_WCF.SrvEmpleado.Empleado.datasource">
       <DependentUpon>Reference.svcmap</DependentUpon>
     </None>
@@ -70,9 +67,6 @@
       <SubType>Designer</SubType>
     </None>
     <None Include="Service References\SrvEmpleado\service1.xsd">
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="Service References\SrvEmpleado\SrvEmpleado.xsd">
       <SubType>Designer</SubType>
     </None>
   </ItemGroup>
