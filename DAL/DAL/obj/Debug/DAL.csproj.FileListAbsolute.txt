@@ -4,6 +4,7 @@ C:\Users\Jose\Downloads\nTierDemo\nTierDemo\DAL\DAL\obj\Debug\DAL.dll
 C:\Users\Jose\Downloads\nTierDemo\nTierDemo\DAL\DAL\obj\Debug\DAL.pdb
 C:\Users\Jose\Documents\GitHub\nTierDemo\nTierDemo\DAL\DAL\bin\Debug\DAL.dll
 C:\Users\Jose\Documents\GitHub\nTierDemo\nTierDemo\DAL\DAL\bin\Debug\DAL.pdb
-C:\Users\Jose\Documents\GitHub\nTierDemo\nTierDemo\DAL\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
 C:\Users\Jose\Documents\GitHub\nTierDemo\nTierDemo\DAL\DAL\obj\Debug\DAL.dll
 C:\Users\Jose\Documents\GitHub\nTierDemo\nTierDemo\DAL\DAL\obj\Debug\DAL.pdb
+C:\Users\Jose\Documents\GitHub\nTierDemo\nTierDemo\DAL\DAL\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Jose\Documents\GitHub\nTierDemo\nTierDemo\DAL\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
